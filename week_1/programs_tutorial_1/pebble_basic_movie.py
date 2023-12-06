@@ -1,4 +1,5 @@
-import random, pylab
+import random
+import matplotlib.pyplot as pylab
 
 sigma = 0.4  # sigma and s_map are needed for the graphical output
 s_map = [(1.0, 1.0), (2.0, 1.0), (3.0, 1.0), 
